@@ -1,0 +1,4 @@
+This folder contains the following data files used for the project:
+
+- user-item-interactions.csv: this file contains the various user-article interactions.
+- articles_community.csv: this file contains the description of the articles.  
