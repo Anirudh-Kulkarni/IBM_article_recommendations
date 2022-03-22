@@ -26,10 +26,10 @@ This project requires Python 3.x and the following Python libraries installed:
 
 For this project, I analyzed the articles that users already interacted with on the IBM platform. After performing this analysis, I tried different techniques to recommend new articles to these users. These recommendations included:
 
-1. Rank-based recommendations: Here, we recommended the most popoular articles to the users. These articles serve as good recommendations to new users.
-2. User-based recommendations: Here, we recommended articles to users based on other users who showed same preferences as them (i.e. they viewed the same articles previously).
-3. Content-based recommendations: Here, we recommended articles to users based solely on the previous articles they interacted with. 
-4. Matric factorization technique: Here, I used matrix decomposition on the user-item interactions and made predictions based on the results. 
+1. ***Rank-based recommendations*** : Here, we recommended the most popoular articles to the users. These articles serve as good recommendations to new users.
+2. ***User-based recommendations*** : Here, we recommended articles to users based on other users who showed same preferences as them (i.e. they viewed the same articles previously).
+3. ***Content-based recommendations*** : Here, we recommended articles to users based solely on the previous articles they interacted with. 
+4. ***Matrix factorization technique*** : Here, I used matrix decomposition on the user-item interactions and made predictions based on the results. 
 
 ## File Descriptions <a name="files"></a>
 
