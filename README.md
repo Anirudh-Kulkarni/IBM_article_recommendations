@@ -4,14 +4,14 @@ I completed this project as a part of the Udacity nanocourse in Datascience. In 
 
 ### Table of Contents
 
-1. [Installation](#installation)
+1. [Requisites](#requisites)
 2. [Data](#data)
 3. [Project Motivation](#motivation)
 4. [File Descriptions](#files)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
-##  Installations<a name="installation"></a>
+##  Requisites<a name="requisites"></a>
 This project requires Python 3.x and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org)
 - [Numpy](https://numpy.org)
