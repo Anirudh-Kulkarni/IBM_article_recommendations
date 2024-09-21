@@ -1,5 +1,5 @@
-# IBM_article_recommendations
-This project was done as a part of the Udacity nanocourse in Datascience. Here, I analyze the articles that users have interacted with on the IBM Watson Studio platform, and then make recommendations of new articles to them.
+# IBM Article Recommendations
+I completed this project as a part of the Udacity nanocourse in Datascience. In this project, I analyze the articles that users have interacted with on the IBM Watson Studio platform, and then make recommendations of new articles to them.
 
 
 ### Table of Contents
@@ -8,7 +8,7 @@ This project was done as a part of the Udacity nanocourse in Datascience. Here, 
 2. [Data](#data)
 3. [Project Motivation](#motivation)
 4. [File Descriptions](#files)
-.5 [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ##  Installations<a name="installation"></a>
@@ -26,10 +26,10 @@ This project requires Python 3.x and the following Python libraries installed:
 
 For this project, I analyzed the articles that users already interacted with on the IBM platform. After performing this analysis, I tried different techniques to recommend new articles to these users. These recommendations included:
 
-1. ***Rank-based recommendations*** : Here, we recommended the most popoular articles to the users. These articles serve as good recommendations to new users.
-2. ***User-based recommendations*** : Here, we recommended articles to users based on other users who showed same preferences as them (i.e. they viewed the same articles previously).
-3. ***Content-based recommendations*** : Here, we recommended articles to users based solely on the previous articles they interacted with. 
-4. ***Matrix factorization technique*** : Here, I used matrix decomposition on the user-item interactions and made predictions based on the results. 
+1. ***Rank-based recommendations*** : This approach involves recommending the most popoular articles to the users. These articles serve as good recommendations to new users.
+2. ***User-based recommendations*** : This approach involves recommending articles to users based on other users who showed same preferences as them (i.e. they viewed the same articles previously).
+3. ***Content-based recommendations*** : This approach involves recommending articles to users based solely on the previous articles they interacted with. 
+4. ***Matrix factorization technique*** : This approach uses matrix decomposition on the user-item interactions and made predictions based on the results. 
 
 ## File Descriptions <a name="files"></a>
 
