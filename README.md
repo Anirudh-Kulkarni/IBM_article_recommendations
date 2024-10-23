@@ -1,5 +1,6 @@
 # IBM Article Recommendations
-I completed this project as a part of the Udacity nanocourse in Datascience. In this project, I analyze the articles that users have interacted with on the IBM Watson Studio platform, and then make recommendations of new articles to them.
+
+In this project, I analyze the articles that users have interacted with on the IBM Watson Studio platform, and then make recommendations of new articles to them. I completed this project as a part of the Udacity nanocourse in Datascience.
 
 
 ### Table of Contents
